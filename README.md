@@ -1,6 +1,8 @@
 # Hey, I'm Adam! 👋
 
-Please check out my [LinkedIn Profile](https://www.linkedin.com/in/adam-lee-b426668b/).
+Please check out my [Resume](https://adamlee321.github.io/) and my [LinkedIn Profile](https://www.linkedin.com/in/adam-lee-b426668b/).
+
+
 
 <details>
 <summary>Click for vanity statistics</summary>
